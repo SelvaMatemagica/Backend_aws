@@ -1,7 +1,6 @@
 # Metodo de funcionalidad del backend en aws
-
-Proyecto basado unicamente en python, y usando la libreria pg8000
 ---
+ Proyecto basado unicamente en python, y usando la libreria pg800
 
 ## Desarrollo del backend en local para subirlo a AWS
 
@@ -31,7 +30,7 @@ Proyecto basado unicamente en python, y usando la libreria pg8000
 
 ## Desarrollo del backend en AWS
 
-1. Solamente se debe ingresar a AWS Lambda
+1. Solamente se debe ingresar a AWS Lambda y usar Visual Studio Code interno en lambda
 2. De requerir más dependencias, debe realizar el proceso mostrado en (Desarrollo del backend en local para subirlo a AWS) con las dependencias ya instaladas en el archivo lib
 
 
